@@ -24,6 +24,6 @@
 | <img src="https://uwuzu.net/img/uwuzu_net_icon.png" width="192px"> | Uwuzu | Uwuzu(ゆず) | https://uwuzu.net/ | だいちまる<br>Puton | | 
 | <img src="https://assets.vrchat.com/www/favicons/safari-pinned-tab.svg" width="192px"> | VRChat | VRChat | https://hello.vrchat.com/ | グラハム・ゲイラー | 世界最大級にして事実上唯一のVR SNS。使用にはある程度の技術的知識が求められる。 |
 | <img src="https://play-lh.googleusercontent.com/HDUOvEZ9uC2GPEWRMyKGjEkwnxwm-i4iQMNotdIC_xaxi7CyPNypVY4bIzMRgk8eGAw" width="192px"> | Whoo | Whoo | https://www.wh00.ooo/ | 原田 豪介 | |
-| <img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg" width="192px"> | X | X | https://x.com | イーロン・マスク | 買収されたTwitterの成れ果てた姿。<br>**青空戦争の標的** | 
+| <img src="https://i0.wp.com/friaryschool.co.uk/wp-content/uploads/2023/11/large-x-logo.png.twimg_.1920-e1699539508422.png?ssl=1" width="192px"> | X | X | https://x.com | イーロン・マスク | 買収されたTwitterの成れ果てた姿。<br>**青空戦争の標的** | 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="192px"> | Youtube | Youtube | https://youtube.com | ニール・モーハン |  |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeP0N1flCzyfg1__VZFVi8_hmj3V5rFODgng&s" width="192px"> | Zoom | Zoom | https://zoom.com | エリック・ユアン |
