@@ -7,11 +7,11 @@
 | <img src="https://avatars.githubusercontent.com/u/710011?s=200&v=4" width="192px"> | Dwango | ニコニコ動画 |  https://nicovideo.jp | くりたしげたか | |
 | <img src="https://avatars.githubusercontent.com/u/13446337?s=200&v=4" width="192px"> | Element | Matrixプロトコル | https://element.io | 不明 | エンドツーエンド暗号化とP2Pを活用する事実上世界で唯一のSNS。|
 | <img src="https://fiicen.jp/favicon.ico" width="192px"> | Fiicen | Fiicen | https://fiicen.jp | そう | 高校生が開発した。古き良きTwitterに回帰することを目指す |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CblwksVFXhuIqxmB8GIaQR4edc6sy1enBA&s" width="192px"> | ~~Google~~<br>空席 | ~~Google+~~ | ~~https://plus.google.com~~ | 不明 | ほとんど存在感を醸し出せないまま折れてしまった。 |
-| <img src="https://pbs.twimg.com/profile_images/1405046887049097223/T51p1zUm_400x400.jpg" width="192px"> | HiClub | Gravity | https://www.gravity.place/ | 張成 煥 | HiClubは中国Baiduの子会社であり、何かとキナ臭い雰囲気がある。 |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CblwksVFXhuIqxmB8GIaQR4edc6sy1enBA&s" width="192px"> | ~~Google~~<br>空席 | ~~Google+~~ | ~~https://plus.google.com~~ | 不明 | ほとんど存在感を醸し出せないまま折れた。 |
+| <img src="https://pbs.twimg.com/profile_images/1405046887049097223/T51p1zUm_400x400.jpg" width="192px"> | HiClub | Gravity | https://www.gravity.place/ | 張成 煥 | 中国Baiduの子会社。 |
 | <img src="https://developers.moralis.com/wp-content/uploads/web3wiki/311-islands/637add0e01a2efe20e7483ed_a2Gq7cJ_J6_n3Y5MGrIEzF53s0tqzMT3zoAUZpNOEx8.jpeg" width="192px"> | Islands XYZ | noplace | https://thenoplace.com | ティファニー・ジョン | |
 | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/e4/dc/4ee4dca8-b9f1-f857-8620-913426853a9b/source/512x512bb.jpg" width="192px"> | Jiffcy | Jiffcy | https://app.adjust.com/1i10xzfm | 西村 成城 | リアルタイム通信による入力中の文章が共有されるチャットアプリ。 |
-| <img src="https://i.imgur.com/yyjCjzM.png" width="192px"> | Keytack | NonFict | https://nonfict.me | r-4981 | リアルタイム通信により入力中の文章が共有される。現時点ではベータ版でありバグも多いが陰キャ版BeRealを目指し前進中。 |
+| <img src="https://i.imgur.com/yyjCjzM.png" width="192px"> | Keytack | NonFict | https://nonfict.me | r-4981 | リアルタイム通信により入力中の文章が共有される。現時点ではベータ版でありバグも多いが陰キャ版BeRealを目指し躍進中。 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/800px-LINE_logo.svg.png" width="192px"> | LINE | LINE | https://line.me | 李海 珍 | 韓国系企業のSNSである。 |
 | <img src="https://misskey-hub.net/img/icons/icon-256x256.png" width="192px"><br><img src="https://media.misskeyusercontent.jp/io/48c1dd5a-877b-4626-98e7-76cd404282fa.png" width="192px"> | ~~Mixi~~<br>Misskey HQ | ~~Mixi~~<br>misskey.io | https://misskey.io | 村上さん | 分散型SNS"Misskey"の世界最大のインスタンス。Mixiの後釜。 |
 | <img src="https://pbs.twimg.com/profile_images/1862785185244205056/T62caZEw_400x400.jpg" width="192px"> | ZEN AUTO? | Nester | 不明 | 丸山耀平 | 革新的な日本最大のSNSを目指しているらしく、リリース前であるにも関わらずクラウドファウンディングを行っている。 |
