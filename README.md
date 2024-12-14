@@ -21,7 +21,7 @@
 | <img src="https://store-images.s-microsoft.com/image/apps.4416.14375561300249796.d13a74ad-ce63-46e2-8940-cdc1265dc71f.cf708543-813e-4d06-843f-3f455881562c" width="192px"> | Reddit | Reddit | https://reddit.com | スティーブ・ハフマン |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDROtK4lm7jNaKs7fvbO8QYjFEFoMFM1TqYw&s" width="192px"> | Snap Inc. | Snapchat | https://www.snapchat.com | ボビー・マーフィー |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="192px"> | ~~Twitter~~<br>空席<br>Threads?<br>TikTok?<br>Twitch? | ~~Twitter~~ | ~~https://twitter.com~~ | ~~ジャック・ドーシー~~ | イーロン・マスクの買収により"X"に改名。 | 
-| <img src="https://uwuzu.net/img/uwuzu_net_icon.png" width="192px"> | Uwuzu | Uwuzu(ゆず) | https://uwuzu.net/ | だいちまる<br>Puton | | 
+| <img src="https://uwuzu.net/img/uwuzu_net_icon.png" width="192px"> | Uwuzu | Uwuzu(ゆず) | https://uwuzu.net/ | だいちまる<br>Puton | NonFict理事の旧友が理事の一人を務める | 
 | <img src="https://assets.vrchat.com/www/favicons/safari-pinned-tab.svg" width="192px"> | VRChat | VRChat | https://hello.vrchat.com/ | グラハム・ゲイラー | 世界最大級にして事実上唯一のVR SNS。使用にはある程度の技術的知識が求められる。 |
 | <img src="https://play-lh.googleusercontent.com/HDUOvEZ9uC2GPEWRMyKGjEkwnxwm-i4iQMNotdIC_xaxi7CyPNypVY4bIzMRgk8eGAw" width="192px"> | Whoo | Whoo | https://www.wh00.ooo/ | 原田 豪介 | 位置情報の共有機能を持つ |
 | <img src="https://i0.wp.com/friaryschool.co.uk/wp-content/uploads/2023/11/large-x-logo.png.twimg_.1920-e1699539508422.png?ssl=1" width="192px"> | X | X | https://x.com | イーロン・マスク | 買収されたTwitterの成れ果てた姿。<br>**青空戦争の標的** | 
